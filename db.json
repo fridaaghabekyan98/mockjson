@@ -1,12 +1,21 @@
 
 {
-  "posts": [
+  "categories": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Drama"
+    },
+    {
+      "id": 2,
+      "name": "Melodrama"
+    },
+    {
+      "id": 3,
+      "name": "Fantastic"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "authors": [
+    {"name": "Vahan Teryan", "categories": ["Drama", "Fantastic"]},
+    {"name": "Hovahannes Tumanyan", "categories": ["Melodrama"]}
+  ]
 }
