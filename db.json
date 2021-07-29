@@ -1,0 +1,11 @@
+{
+  "categories": [
+    {"name": "Drama"},
+    {"name": "Melodrama"},
+    {"name": "Fantastic"}
+  ],
+  "authors": [
+    {"name": "Vahan Teryan", "categories": ["Drama", "Fantastic"]},
+    {"name": "Hovahannes Tumanyan", "categories": ["Melodrama"]}
+  ],
+}
