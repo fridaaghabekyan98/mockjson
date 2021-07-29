@@ -15,7 +15,15 @@
     }
   ],
   "authors": [
-    {"id": 1,"name": "Vahan Teryan", "categories": ["Drama", "Fantastic"]},
-    {"id": 2,"name": "Hovahannes Tumanyan", "categories": ["Melodrama"]}
+    {
+      "id": 1,
+      "name": "Vahan Teryan", 
+      "categories": ["Drama", "Fantastic"]
+    },
+    {
+      "id": 2,
+      "name": "Hovahannes Tumanyan", 
+      "categories": ["Melodrama"]
+    }
   ]
 }
